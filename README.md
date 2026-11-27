@@ -26,7 +26,7 @@ npm install
 npm run dev
 ```
 
-浏览器打开 [http://127.0.0.1:47231](http://127.0.0.1:47231)。
+浏览器打开 [http://127.0.0.1:47231/fuzu-ji/](http://127.0.0.1:47231/fuzu-ji/)。
 
 生产构建：
 
@@ -39,7 +39,7 @@ npm run preview
 
 ## 添加到 iPhone 主屏幕
 
-1. 用 Safari 打开这个网站。微信或其他 App 里的浏览器通常不能安装。
+1. 用 Safari 打开 [https://sxzjl.github.io/fuzu-ji/](https://sxzjl.github.io/fuzu-ji/)。微信或其他 App 里的浏览器通常不能安装。
 2. 点底部分享按钮。
 3. 选「添加到主屏幕」。
 4. 名称会显示为「富足记」。

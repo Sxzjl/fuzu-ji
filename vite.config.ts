@@ -2,6 +2,8 @@ import { VitePWA } from "vite-plugin-pwa";
 import { defineConfig } from "vitest/config";
 
 export default defineConfig({
+  // GitHub project Pages serves this app at https://sxzjl.github.io/fuzu-ji/
+  base: "/fuzu-ji/",
   test: {
     environment: "node",
     include: ["src/**/*.test.ts"],
